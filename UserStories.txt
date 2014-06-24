@@ -1,0 +1,17 @@
+1. Tasks
+N1 and N2: Maksimiliyan
+N3 and N4: Luben
+N5: Maksimiliyan
+N6: Luben
+N7: Maksimiliyan
+N8: Luben
+N9 and N10: Maksimiliyan
+N11 and N12: Luben
+
+2. HTML
+Tests: Maksimiliyan
+Answers: Luben
+
+3. Pdf
+Tests: Luben
+Answers: Maksimiliyan
